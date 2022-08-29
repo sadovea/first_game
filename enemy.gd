@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-var speed = 10
+var speed = 20
 var jumpForse = 300
 var gravity = 700
 
